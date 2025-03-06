@@ -9,9 +9,5 @@ Repository ini berisi tugas pemrograman dalam JavaScript.
 4. Menghitung selisih hari antara dua tanggal
 5. Mengambil inisial nama dalam huruf kapital
 
-## Cara Menjalankan Kode
-1. Pastikan sudah menginstall **Node.js**
-2. Jalankan perintah berikut:
-   ```sh
-   node script.js
+
 
